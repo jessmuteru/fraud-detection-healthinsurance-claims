@@ -19,12 +19,12 @@ A rise in fraud in the health insurance sector and traditional fraud detection m
 - One calss SVM
 - Local Outlier Factor
 
-4. **Results**
+## Results
 - Mission hospitals had the highest count of flagged cases
 - Them month of June had the highest anomaly count
 - Most flagged cases showed that patients were admitted for  atotal of 0 days
 
-5. **Tools**
+## Tools
 - Python: Pandas and Numpy
 - Sklearn
 - Streamlit(for deployment)
